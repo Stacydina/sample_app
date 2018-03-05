@@ -13,6 +13,7 @@ Rails.application.routes.draw do
 
   #get  '/signup',  to: 'users#new'
   get  'signup' => 'users#new'
+  post 'signup'to 'users#create'
 
   resources :users
 
