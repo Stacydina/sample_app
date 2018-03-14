@@ -35,6 +35,8 @@ gem 'bootstrap-sass', '3.3.7'
 
 gem 'jquery-rails', '4.3.1'
 
+#gem 'rails-controller-testing', '1.0.2'
+
 
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
